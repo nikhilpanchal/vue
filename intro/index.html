@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Intro</title>
+  </head>
+  <body>
+    <div id="app">
+    	<H1>{{ title }}</H1>
+    	<span v-bind:title="spanTitle | capitalize">{{message}}</span>
+
+        <span>{{reversedMessage}}</span>
+
+        <p v-if="show" v-on:click=reverseMessage>New you see me</p>
+
+        <ol>
+            <li v-for="todo in todos">{{todo.text}}</li>
+        </ol>
+
+        <button v-on:click=showHiddenText>Show Hidden Text</button>
+
+        <div>
+            <input type="text" name="modelInput" v-model="modelText"/>
+            <span>{{modelText}}</span>
+        </div>
+
+        <ul>
+            <todo-item v-for="item in todos" v-bind:text="item.text"></todo-item>
+        </ul>
+
+        <div>
+            <p>
+                Ask a question
+                <input type="text" name="yesno" v-model="question"/>
+            </p>
+            <p>{{answer}}</p>
+        </div>
+    </div>
+
+    <div v-on:increment=id="egcomponents">
+        <span>{{total}}</span>
+        <my-button v-on:increment="incrementTotal"></my-button>
+        <my-button v-on:increment="incrementTotal"></my-button>
+    </div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
