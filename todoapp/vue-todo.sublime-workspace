@@ -1,0 +1,969 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"filteredTodos"
+			],
+			[
+				"todo",
+				"todofilters"
+			],
+			[
+				"stor",
+				"storageKey"
+			],
+			[
+				"loca",
+				"localStore〔variable〕"
+			],
+			[
+				"lo",
+				"localstore"
+			],
+			[
+				"auto",
+				"autocomplete\tAttr"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"tod",
+				"todo-item"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"Typ",
+				"TypeAhead"
+			],
+			[
+				"handle",
+				"handleRowClick"
+			],
+			[
+				"Ty",
+				"TypeAhead"
+			],
+			[
+				"default",
+				"defaultChecked"
+			],
+			[
+				"def",
+				"defaultValue"
+			],
+			[
+				"change",
+				"changeBlur"
+			],
+			[
+				"Selec",
+				"SelectEvent〔variable〕"
+			],
+			[
+				"Sele",
+				"SelectEvent〔variable〕"
+			],
+			[
+				"Tex",
+				"TextEvent〔variable〕"
+			],
+			[
+				"val",
+				"values〔variable〕"
+			],
+			[
+				"sele",
+				"selectValue1〔variable〕"
+			],
+			[
+				"selec",
+				"select-value"
+			],
+			[
+				"width",
+				"width80〔variable〕"
+			],
+			[
+				"Text",
+				"TextEvents"
+			],
+			[
+				"ha",
+				"handleBlur"
+			],
+			[
+				"handl",
+				"handleChange"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"Add",
+				"AddFieldContainer〔variable〕"
+			],
+			[
+				"Form",
+				"FormFieldContainer〔variable〕"
+			],
+			[
+				"Fo",
+				"FormFieldList"
+			],
+			[
+				"labe",
+				"labelReducer"
+			],
+			[
+				"app",
+				"appReducer"
+			],
+			[
+				"Reac",
+				"ReactDOM"
+			],
+			[
+				"b",
+				"btn-default"
+			],
+			[
+				"w",
+				"workprocess"
+			],
+			[
+				"res",
+				"response〔argument〕"
+			],
+			[
+				"pa",
+				"parse"
+			],
+			[
+				"pas",
+				"passw0rd"
+			],
+			[
+				"body",
+				"body_parser"
+			],
+			[
+				"resp",
+				"responseObj〔variable〕"
+			],
+			[
+				"response",
+				"responseObj"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"writ",
+				"writeStream"
+			],
+			[
+				"event",
+				"eventEmitter"
+			],
+			[
+				"create",
+				"createClass"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"Op",
+				"OptionLeg\tclass"
+			],
+			[
+				"LongUnderlying",
+				"longunderlying\tmodule"
+			],
+			[
+				"shortp",
+				"shortputstrategy\tmodule"
+			],
+			[
+				"longca",
+				"longcallstrategy\tmodule"
+			],
+			[
+				"Lon",
+				"LongPutStrategy\tclass"
+			],
+			[
+				"long",
+				"longputstrategy\tmodule"
+			],
+			[
+				"Pa",
+				"PayoffPlotter\timport"
+			],
+			[
+				"Long",
+				"LongCallStrategy\tclass"
+			],
+			[
+				"py",
+				"pyplot\tmodule"
+			],
+			[
+				"payf",
+				"payoff\tstatement"
+			],
+			[
+				"pay",
+				"payoff\tstatement"
+			],
+			[
+				"get",
+				"get_strategy\tfunction"
+			],
+			[
+				"sto",
+				"stock_price\tparam"
+			],
+			[
+				"Not",
+				"NotImplementedError\tclass"
+			],
+			[
+				"sho",
+				"shortputstrategy\tmodule"
+			],
+			[
+				"Sho",
+				"ShortCallStrategy\tclass"
+			],
+			[
+				"calcu",
+				"calculators\tmodule"
+			],
+			[
+				"base",
+				"basestrategy\tmodule"
+			],
+			[
+				"B",
+				"BaseStrategy\tclass"
+			],
+			[
+				"ba",
+				"basestrategy\tmodule"
+			],
+			[
+				"stoc",
+				"stock_price"
+			],
+			[
+				"stra",
+				"strategy_map\tstatement"
+			],
+			[
+				"s",
+				"str\tclass"
+			],
+			[
+				"pr",
+				"print\tkeyword"
+			],
+			[
+				"strate",
+				"strategy_map\tstatement"
+			],
+			[
+				"calcul",
+				"calculate"
+			],
+			[
+				"pe",
+				"print_registered_strategies"
+			],
+			[
+				"prin",
+				"print_registered_strategies"
+			],
+			[
+				"regi",
+				"register_strategy"
+			],
+			[
+				"strat",
+				"strategy_map"
+			],
+			[
+				"str",
+				"strategy_map"
+			],
+			[
+				"va",
+				"validate"
+			],
+			[
+				"card",
+				"card_number"
+			],
+			[
+				"car",
+				"card_number"
+			],
+			[
+				"Cre",
+				"CreditCard"
+			],
+			[
+				"ca",
+				"card_type"
+			],
+			[
+				"ge",
+				"getCast"
+			],
+			[
+				"wor",
+				"word_stats"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2091,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 2345,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/services/todofilters.js",
+			"settings":
+			{
+				"buffer_size": 249,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/services/localstore.js",
+			"settings":
+			{
+				"buffer_size": 550,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install pac",
+		"selected_items":
+		[
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"format",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"Anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"exit",
+			"echo $PATH",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nikhilpanchal/code/vue/todoapp",
+		"/Users/nikhilpanchal/code/vue/todoapp/build",
+		"/Users/nikhilpanchal/code/vue/todoapp/src",
+		"/Users/nikhilpanchal/code/vue/todoapp/src/assets",
+		"/Users/nikhilpanchal/code/vue/todoapp/src/components",
+		"/Users/nikhilpanchal/code/vue/todoapp/src/services",
+		"/Users/nikhilpanchal/code/vue/todoapp/static"
+	],
+	"file_history":
+	[
+		"/Users/nikhilpanchal/code/vue/todoapp/src/main.js",
+		"/Users/nikhilpanchal/code/vue/todoapp/src/App.vue",
+		"/Users/nikhilpanchal/code/vue/todoapp/build/webpack.base.conf.js",
+		"/Users/nikhilpanchal/code/vue/todoapp/src/components/Hello.vue",
+		"/Users/nikhilpanchal/code/vue/intro/src/hellow.js",
+		"/Users/nikhilpanchal/code/vue/intro/build/webpack.base.conf.js",
+		"/Users/nikhilpanchal/code/vue/intro/src/egcomps.js",
+		"/Users/nikhilpanchal/code/vue/intro/src/main.js",
+		"/Users/nikhilpanchal/code/vue/intro/src/hello-world.vue",
+		"/Users/nikhilpanchal/code/vue/intro/index.html",
+		"/Users/nikhilpanchal/code/vue/intro/src/HelloWorld.js",
+		"/Users/nikhilpanchal/code/vue/intro/src/App.vue",
+		"/Users/nikhilpanchal/code/vue/intro/src/components/Hello.vue",
+		"/Users/nikhilpanchal/code/react-components/package.json",
+		"/Users/nikhilpanchal/code/react-components/src/app.js",
+		"/Users/nikhilpanchal/code/react-components/src/util/events.js",
+		"/Users/nikhilpanchal/code/react-components/src/text-input/text.js",
+		"/Users/nikhilpanchal/code/react-components/src/main.js",
+		"/Users/nikhilpanchal/code/react-components/webpack.config.js",
+		"/Users/nikhilpanchal/code/react-components/index.js",
+		"/Users/nikhilpanchal/code/react-components/main.js",
+		"/Users/nikhilpanchal/code/react-components/src/select-input/select.js",
+		"/Users/nikhilpanchal/code/react-components/src/radio-input/radio.js",
+		"/Users/nikhilpanchal/code/react-components/src/radio-input/radio.less",
+		"/Users/nikhilpanchal/code/react-components/src/event-components.js",
+		"/Users/nikhilpanchal/code/react-components/src/app.less",
+		"/Users/nikhilpanchal/code/react-components/src/typeahead/typeahead.less",
+		"/Users/nikhilpanchal/code/react-components/src/typeahead/typeahead.js",
+		"/Users/nikhilpanchal/code/react-components/src/index.js",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/src/typeahead/typeahead.less",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/src/event-components.js",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/src/text-input/text.less",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/src/select-input/select.less",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/src/text-input/text-change-blur.js",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/src/select-input/select-value.js",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/User/reactclass.sublime-snippet",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/webpack.config.js",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/src/text-input/text.js",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/src/main.js",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/User/LESS.sublime-settings",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/index.html",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/package.json",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/main.js",
+		"/Users/nikhilpanchal/code/Front-end/React/ticket-components/ticket-components.sublime-project",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/User/webpack.sublime-snippet",
+		"/Users/nikhilpanchal/code/Front-end/css/intro/webpack.config.js",
+		"/Users/nikhilpanchal/code/Front-end/css/intro/index.html",
+		"/Users/nikhilpanchal/code/Front-end/css/intro/main.js",
+		"/Users/nikhilpanchal/code/Front-end/css/intro/stylesheet-positions.css",
+		"/Users/nikhilpanchal/code/Front-end/css/intro/styles.less",
+		"/Users/nikhilpanchal/code/Front-end/css/intro/stylesheet-layout.css",
+		"/Users/nikhilpanchal/code/Front-end/css/intro/index3.html",
+		"/Users/nikhilpanchal/code/Front-end/css/intro/stylesheet-positioning.css",
+		"/Users/nikhilpanchal/code/Front-end/css/intro/index-positioning.html",
+		"/Users/nikhilpanchal/code/Front-end/css/intro/index2.html",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/User/html.sublime-snippet",
+		"/Users/nikhilpanchal/code/Front-end/css/intro/package.json",
+		"/Users/nikhilpanchal/code/Front-end/React/fundamentals/webpack.config.js",
+		"/Users/nikhilpanchal/code/scala/Intro/Greeting.scala",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/User/scala.sublime-build",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/User/node.sublime-build",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/src/reducer/main-reducer.js",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/src/reducer/label-reducer.js",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/src/containers/FieldsContainer.js",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/src/components/form-field-list.js",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/src/actions/create-field-act.js",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/src/components/form-field.js",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/src/containers/add-field-container.js",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/src/components/add-field.js",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/src/components/app.js",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/src/index.js",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/index.html",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/webpack.config.js",
+		"/Users/nikhilpanchal/code/Front-end/React/redux-scratch/package.json",
+		"/Users/nikhilpanchal/code/node/sampleREST/server.js",
+		"/Users/nikhilpanchal/code/node/sampleREST/web/partials/home-ptl.html",
+		"/Users/nikhilpanchal/code/node/sampleREST/web/partials/charts-ptl.html",
+		"/Users/nikhilpanchal/code/node/sampleREST/web/index.html",
+		"/Users/nikhilpanchal/code/node/sampleREST/web/js/service/remote-api.js",
+		"/Users/nikhilpanchal/code/node/sampleREST/web/js/controllers/bear-ctrl.js",
+		"/Users/nikhilpanchal/code/node/sampleREST/web/js/controllers/option-ctrl.js",
+		"/Users/nikhilpanchal/code/node/sampleREST/web/js/components/optionpayoffchart/calculators/long-call-calc-svc.js",
+		"/Users/nikhilpanchal/code/node/sampleREST/models/bear.js",
+		"/Users/nikhilpanchal/code/node/sampleREST/package.json",
+		"/Users/nikhilpanchal/code/node/basic/index.htm",
+		"/Users/nikhilpanchal/code/node/basic/index.html",
+		"/Users/nikhilpanchal/code/Front-end/ES6/basics/Es6Basics/src/js/promises.js",
+		"/Users/nikhilpanchal/code/node/basic/support.js",
+		"/Users/nikhilpanchal/code/node/basic/master.js",
+		"/Users/nikhilpanchal/code/node/basic/restexpress.js",
+		"/Users/nikhilpanchal/code/node/basic/express.js",
+		"/Users/nikhilpanchal/code/node/basic/public/data/users.json",
+		"/Users/nikhilpanchal/code/node/basic/server.js",
+		"/Users/nikhilpanchal/code/node/basic/client.js",
+		"/Users/nikhilpanchal/code/node/basic/events.js",
+		"/Users/nikhilpanchal/code/node/basic/streams.js",
+		"/Users/nikhilpanchal/code/node/basic/fileread.js",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/Users/nikhilpanchal/code/node/basic/http.js",
+		"/Users/nikhilpanchal/code/node/basic/randomtext.txt",
+		"/Users/nikhilpanchal/code/node/basic/README.md",
+		"/Users/nikhilpanchal/code/Front-end/React/Initial-Prototype/index.html",
+		"/Users/nikhilpanchal/mystuff/React/js/sample.js",
+		"/Users/nikhilpanchal/mystuff/React/index.html",
+		"/Users/nikhilpanchal/mystuff/options/payoffcharts/python/calculators/shortcallstrategy.py",
+		"/Users/nikhilpanchal/mystuff/options/payoffcharts/python/calculators/shortputstrategy.py",
+		"/Users/nikhilpanchal/mystuff/options/payoffcharts/python/calculators/longputstrategy.py",
+		"/Users/nikhilpanchal/mystuff/options/payoffcharts/python/calculators/basestrategy.py",
+		"/Users/nikhilpanchal/mystuff/options/payoffcharts/python/calculators/longunderlying.py",
+		"/Users/nikhilpanchal/mystuff/options/payoffcharts/python/calculators/longcallstrategy.py",
+		"/Users/nikhilpanchal/mystuff/options/payoffcharts/python/model/optionleg.py",
+		"/Users/nikhilpanchal/byte/python/parttimefinance/options/README.md",
+		"/Users/nikhilpanchal/mystuff/options/payoffcharts/python/README.md",
+		"/Users/nikhilpanchal/mystuff/options/payoffcharts/python/Controller.py",
+		"/Users/nikhilpanchal/mystuff/options/payoffcharts/python/view/graphview.py",
+		"/Users/nikhilpanchal/mystuff/options/payoffcharts/python/payoffcalculator.py",
+		"/Users/nikhilpanchal/byte/python/parttimefinance/options/payoffcharts/python/calculators/__init__.py",
+		"/Users/nikhilpanchal/byte/python/parttimefinance/options/payoffcharts/python/optionpayoff.sublime-project",
+		"/Users/nikhilpanchal/byte/python/parttimefinance/options/payoffcharts/python/model/optionleg.py",
+		"/Users/nikhilpanchal/byte/python/parttimefinance/options/payoffcharts/python/calculators/longcallstrategy.py",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/nikhilpanchal/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/nikhilpanchal/byte/python/class2/classes.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/nikhilpanchal/code/Front-end/React/ticket-components/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"on:click",
+			"name",
+			"SelectEvent",
+			"exports.default",
+			"module.exports",
+			"exports {",
+			".title",
+			"label: ",
+			"value: ",
+			"class",
+			"path",
+			"price",
+			"');\n",
+			"Error",
+			"my_movie"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								798,
+								798
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 166.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1393,
+								1393
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 561.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/services/todofilters.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/services/localstore.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/scala.sublime-build",
+	"project": "vue-todo.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
