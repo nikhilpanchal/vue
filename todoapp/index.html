@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>TODO App</title>
+  </head>
+  <body>
+    <div id="app">
+    </div>
+
+    <section class="todoapp">
+        <header class="header">
+            <h1>Todos</h1>
+            <input class="new-todo" 
+                autofocus autocomplete="off"
+                placeholder="What needs to be done ?"
+                @keyup.enter="addTodo">
+        </header>
+        <section class="main">
+            <!-- Shorthand for v-on:click -->
+            <input type="checkbox" class="toggle-all" @click="toggleAllTodos">
+            <!-- The list of todos -->
+            <ul>
+                <li v-for="todo in filteredTodos">
+                    <div class="view">
+                        <!-- could be replaced by v-model:todo.completed -->
+                        <input type="checkbox" class="toggle" 
+                            v-on:click="toggleTodo(todo)" 
+                            v-bind:checked="todo.completed">
+                        <label>{{todo.message}}</label>
+                        <button class="destroy" @click="deleteTodo(todo)"></button>
+                    </div>
+                    <!-- <input type="text" class="edit"> -->
+                </li>
+            </ul>
+        </section>
+        <footer v-show="todos.length">
+            <div>
+                <label>{{remainingTodos}} {{ remainingTodos | pluralize }} left</label>
+                <div class="filters">
+                    <a href="javascript:void(0)" v-on:click="visibility = 'all'">All</a>
+                    <a href="javascript:void(0)" v-on:click="visibility = 'active'">Active</a>
+                    <a href="javascript:void(0)" v-on:click="visibility = 'completed'">Completed</a>
+                </div>
+                <button class="clear-completed" @click="visibility = 'active'">
+                    Clear Completed
+                </button>
+            </div>
+        </footer>
+    </section>
+    <footer>
+        <p>Double click to edit a todo</p>
+    </footer>
+
+    <!-- built files will be auto injected -->
+  </body>
+</html>
